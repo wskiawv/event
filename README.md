@@ -1,0 +1,3 @@
+# event
+spring 事件异步处理学习例子
+使用ApplicationEvent类和ApplicationListener接口
